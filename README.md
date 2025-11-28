@@ -1,9 +1,9 @@
 <h1 align="center">
-Heyy Whats up? I'm Matheus 🤙
+Hey What's up? I'm Matheus 🤙
 </h1>
 
 <h3 align="center">
-I really like technologies stuffs 👩‍💻
+I really like tech stuff 👩‍💻
 </h3>
 
 <div align="center">
