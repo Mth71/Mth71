@@ -19,8 +19,8 @@ I really like technologies stuffs 👩‍💻
 ## About Me ⚡
 
 - 🎓 I'm currently studying Computer Science at *CESAR School* 
-- 🌱 At the moment, I'm focused on learning and improving my `Python` skills and other programming languages
-- 🧐 I enjoy solving problems, creating projects, and learning new technologies
+- 🌱 At the moment, I'm focused on improving my `Python` skills and exploring other programming languages
+- 🧐 I enjoy solving problems, building projects, and learning new technologies
 
 
 ## Top Languages and Tools 
