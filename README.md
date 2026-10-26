@@ -16,7 +16,6 @@ Computer Science student at <b>CESAR School</b> (Recife, Brazil) · Web developm
 - 🎓 3rd semester of Computer Science at CESAR School (graduating in 2029)
 - 🧪 I write tests alongside the code: unit, integration and end-to-end, running in CI
 - 🔍 I like understanding how tools work under the hood, from Django to processes and threads in C
-- 📍 Recife, Brazil · available for internships in the afternoon
 - 🇧🇷 Português nativo · 🇺🇸 English (intermediate)
 
 ## Featured projects
